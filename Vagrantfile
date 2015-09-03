@@ -8,7 +8,8 @@ vm_ip = "192.168.50.6"
 Vagrant.configure(2) do |config|
 
 	# OPERATIONAL SYSTEM / SISTEMA OPERACIONAL
-	config.vm.box = "relativkreativ/centos-7-minimal"
+	config.vm.box = "centos-7-minimal"
+  	config.vm.box_url = "https://atlas.hashicorp.com/relativkreativ/boxes/centos-7-minimal/versions/1.0.3/providers/virtualbox.box"
 
 	# IP CONFIGURATION
 	# CONFIGURAÇÃO DE IP NA MÁQUINA
