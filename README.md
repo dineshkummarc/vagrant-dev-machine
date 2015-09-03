@@ -76,4 +76,4 @@ Caso não encontre alguma ferramenta ou linguagem de seu interesse, sinta-se a v
 
 Se este repositório não possuir informações na sua língua nativa ajude-nos traduzindo para o seu idioma ajudando assim outros de seu país.
 
-Não utilizo puppet ou algo similar para o aprovisionamento pois esta máquina foi elaborada para usar CentOS, sendo assim mais fácil fazer tudo diretamente via shell, mas caso alguém com experiência em puppet queira converter os scripts para assim quem quiser trocar o sistema operacional para um Ububtu, por exemplo, consiga fazer isso sem ter que alterar todos os shell será de muito bom agrado. :)
+Não utilizo puppet ou algo similar para o aprovisionamento pois esta máquina foi elaborada para usar CentOS, sendo assim mais fácil fazer tudo diretamente via shell, mas caso alguém com experiência em puppet queira converter os scripts para assim quem quiser trocar o sistema operacional para um Ubuntu, por exemplo, consiga fazer isso sem ter que alterar todos os shell será de muito bom agrado. :)
