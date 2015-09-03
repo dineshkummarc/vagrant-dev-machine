@@ -44,7 +44,7 @@ I do not use puppet or something similar for the supply because this machine is 
 
 ###Objetivo
 
-Está máquina Vagrant está sendo desenvolvida para provisionar diversas ferramentas e linguagens úteis para os desenvolvedores de diversas linguagens. A ideia é que cada desenvolvedor analise suas necessidades de ferramentas e linguagens e excluir localmente os que não são de seu interesse.
+Esta máquina Vagrant está sendo desenvolvida para provisionar diversas ferramentas e linguagens úteis para os desenvolvedores de diversas linguagens. A ideia é que cada desenvolvedor analise suas necessidades de ferramentas e linguagens e excluir localmente os que não são de seu interesse.
 
 ###Documentação
 
@@ -74,6 +74,6 @@ Antes de começar é necessário instalar uma ferramenta de virtualização, uti
 
 Caso não encontre alguma ferramenta ou linguagem de seu interesse, sinta-se a vontade para criar um script de provisionamento e adicionar a este projeto para ajudar outros desenvolvedores. Ou até mesmo melhorar a versão em inglês deste que foi feita com ajuda do Google Translator.
 
-Se este repositório não possuir informações na sua lingua nativa ajude-nos traduzindo para a sua lingua ajudando assim outros de seu país.
+Se este repositório não possuir informações na sua língua nativa ajude-nos traduzindo para o seu idioma ajudando assim outros de seu país.
 
-Não utilizo puppet ou algo similar para o aprovisionamento pois esta máquina foi elaborada para usar CentOS, sendo assim mais fácil fazer tudo diretamente via shell, mas caso alguém com experiência em puppet queira converter os scripts para assim quem quiser trocar o sistema operacional para um Ububtu por exemplo e consiga fazer isso sem ter que alterar todos os shell será de muito bom agrado. :)
+Não utilizo puppet ou algo similar para o aprovisionamento pois esta máquina foi elaborada para usar CentOS, sendo assim mais fácil fazer tudo diretamente via shell, mas caso alguém com experiência em puppet queira converter os scripts para assim quem quiser trocar o sistema operacional para um Ububtu, por exemplo, consiga fazer isso sem ter que alterar todos os shell será de muito bom agrado. :)
