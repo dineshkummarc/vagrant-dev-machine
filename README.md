@@ -1,5 +1,11 @@
 # vagrant-dev-machine
 
+##Documentation
+###[EN](English)
+###[PT-BR](Português)
+
+---
+
 ##English
 
 ###Goal
