@@ -1,8 +1,8 @@
 # vagrant-dev-machine
 
 ##Documentation
-###[EN](#english)
-###[PT-BR](#português)
+####[English](#english)
+####[Português](#português)
 
 ---
 
